@@ -1,5 +1,6 @@
 package secondseesion;
 
+
 //template/blue print 
 //object--state(variable) and behaviour(methods)
 public class CarAttributes {
